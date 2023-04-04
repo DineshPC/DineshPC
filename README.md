@@ -1,3 +1,4 @@
-## Hi, 
+## Hi there, 
 ### I am Dinesh Chaudhary,
-### Student of the University of Mumbai.
+- Student at the University of Mumbai.
+- I am currently learning Github.
