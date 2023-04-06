@@ -1,6 +1,17 @@
 ## Hi there, 
-### I am Dinesh Chaudhary,
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DineshPC)](https://github.com/DineshPC)
+### I'm Dinesh Chaudhary,
+
+[![My Page Visitor](https://visitor-badge.laobi.icu/badge?page_id=DineshPC)](https://github.com/DineshPC)
+&nbsp;
+![Java](https://badges.aleen42.com/src/java.svg)
+&nbsp;
+![Python](https://badges.aleen42.com/src/python_dfc.svg)
+&nbsp;
+![JavaScript](https://badges.aleen42.com/src/javascript_dfc.svg)
+&nbsp;
+![Node](https://badges.aleen42.com/src/node_dfc.svg)
+&nbsp;
+ 	
 - Student at the University of Mumbai.
 - I am currently learning Github and DSA.
 - main programming language is Java.
