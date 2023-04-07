@@ -12,9 +12,9 @@
 ![Node](https://badges.aleen42.com/src/node_dfc.svg)
 &nbsp;
  	
-- Student at the University of Mumbai.
-- I am currently learning Github and DSA.
-- main programming language is Java.
+- **Student** at the University of Mumbai.
+- I am currently learning **Github** and **DSA**.
+- main programming language is **Java**.
 
 --------
 ## How to reach me : 
