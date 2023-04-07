@@ -1,4 +1,4 @@
-## Hi there, 
+## Hi,
 ### I'm Dinesh Chaudhary,
 
 [![My Page Visitor](https://visitor-badge.laobi.icu/badge?page_id=DineshPC)](https://github.com/DineshPC)
