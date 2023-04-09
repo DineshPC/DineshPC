@@ -6,7 +6,7 @@
 &nbsp; ![Python](https://badges.aleen42.com/src/python_dfc.svg)
 &nbsp; ![JavaScript](https://badges.aleen42.com/src/javascript_dfc.svg)
 &nbsp; ![NodeJS](https://badges.aleen42.com/src/node_dfc.svg)
-  
+
 - **<ins>Student</ins>** at the University of Mumbai.
 - I am currently learning **<ins>Github</ins>** and **<ins>DSA</ins>**.
 - main programming language is **<ins>Java</ins>**.
@@ -19,3 +19,4 @@
 &emsp;
 <a href="https://twitter.com/DineshCh2003">![Twitter](https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=blue)</a>
 - ---
+
