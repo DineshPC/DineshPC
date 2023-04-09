@@ -1,15 +1,15 @@
 ## Hi,
 ### I'm Dinesh Chaudhary,
 
-[![My Page Visitor](https://visitor-badge.laobi.icu/badge?page_id=DineshPC)](https://github.com/DineshPC)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=DineshPC" alt="java">
 &nbsp;
-![Java](https://badges.aleen42.com/src/java.svg)
+<img src="https://badges.aleen42.com/src/java.svg" alt="java">
 &nbsp;
-![Python](https://badges.aleen42.com/src/python_dfc.svg)
+<img src="https://badges.aleen42.com/src/python_dfc.svg" alt="python">
 &nbsp;
-![JavaScript](https://badges.aleen42.com/src/javascript_dfc.svg)
+<img src="https://badges.aleen42.com/src/javascript_dfc.svg" alt="javascript">
 &nbsp;
-![Node](https://badges.aleen42.com/src/node_dfc.svg)
+<img src="https://badges.aleen42.com/src/node_dfc.svg" alt="nodejs">
 &nbsp;
  	
 - **<u>Student</u>** at the University of Mumbai.
