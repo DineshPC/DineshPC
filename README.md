@@ -12,9 +12,9 @@
 <img src="https://badges.aleen42.com/src/node_dfc.svg" alt="nodejs">
 &nbsp;
  	
-- **<u>Student</u>** at the University of Mumbai.
-- I am currently learning **<u>Github</u>** and **<u>DSA</u>**.
-- main programming language is **<u>Java</u>**.
+- **<ins>Student</ins>** at the University of Mumbai.
+- I am currently learning **<ins>Github</ins>** and **<ins>DSA</ins>**.
+- main programming language is **<ins>Java</ins>**.
 
 --------
 ## How to reach me : 
