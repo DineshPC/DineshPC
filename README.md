@@ -1,25 +1,19 @@
-## Hi,
-### I'm Dinesh Chaudhary,
+# Hi,
+## I'm Dinesh Chaudhary,
 
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=DineshPC" alt="java">
-&nbsp;
-<img src="https://badges.aleen42.com/src/java.svg" alt="java">
-&nbsp;
-<img src="https://badges.aleen42.com/src/python_dfc.svg" alt="python">
-&nbsp;
-<img src="https://badges.aleen42.com/src/javascript_dfc.svg" alt="javascript">
-&nbsp;
-<img src="https://badges.aleen42.com/src/node_dfc.svg" alt="nodejs">
-&nbsp;
- 	
-    
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=DineshPC") 
+&nbsp; ![Java](https://badges.aleen42.com/src/java.svg)
+&nbsp; ![Python](https://badges.aleen42.com/src/python_dfc.svg)
+&nbsp; ![JavaScript](https://badges.aleen42.com/src/javascript_dfc.svg)
+&nbsp; ![NodeJS](https://badges.aleen42.com/src/node_dfc.svg)
+  
 - **<ins>Student</ins>** at the University of Mumbai.
 - I am currently learning **<ins>Github</ins>** and **<ins>DSA</ins>**.
 - main programming language is **<ins>Java</ins>**.
 
 --------
-## How to reach me : 
+
+## How to reach me
 
 <a href="https://www.linkedin.com/in/dinesh-chaudhary-a932a9245">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 &emsp;
