@@ -10,6 +10,7 @@
 - **<ins>Student</ins>** at the University of Mumbai.
 - I am currently learning **<ins>Github</ins>** and **<ins>DSA</ins>**.
 - main programming language is **<ins>Java</ins>**.
+- I also have knowledge of other programming languages such as C++, Python, JavaScript, NodeJS, Html, CSS, Kotlin. 
 
 --------
 
